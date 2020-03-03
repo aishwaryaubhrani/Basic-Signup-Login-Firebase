@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192852488530",
+    "firebase_url": "https://minor-4ccce.firebaseio.com",
+    "project_id": "minor-4ccce",
+    "storage_bucket": "minor-4ccce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192852488530:android:4e9631f308f058bef0ca8b",
+        "android_client_info": {
+          "package_name": "com.example.minor2muskan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192852488530-ea67ifv2nprqs68atharep9qbv1i41t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX4tNMP8bYnaRzS8gBELqkllnKMkKpJ-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192852488530-ea67ifv2nprqs68atharep9qbv1i41t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
